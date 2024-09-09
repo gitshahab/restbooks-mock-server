@@ -1,4 +1,11 @@
 {
   "orders": [],
-  "users": []
+  "users": [
+    {
+      "email": "bassam@gmail.com",
+      "password": "$2a$10$ln3Sc3jWmyamBme9JYW6Pepznx2mU6riU/17OEC/vNb78BPoK9Y9m",
+      "name": "bassam",
+      "id": 1
+    }
+  ]
 }
